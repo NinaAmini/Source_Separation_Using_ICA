@@ -58,7 +58,7 @@ The system separates mixed audio signals using **Independent Component Analysis 
 
 ```bash
 git clone https://github.com/NinaAmini/Source_Separation_Using_ICA
-cd DSP_Project/Source_separation_Using_ICA
+cd DSP_Project
 ```
 
 ---
